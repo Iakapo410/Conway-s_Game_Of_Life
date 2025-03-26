@@ -1,0 +1,8 @@
+﻿  LifeSimulation.cpp
+  main.cpp
+C:\Users\tolis\source\repos\Conway's_Game_Of_Life\main.cpp(26,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tolis\source\repos\Conway's_Game_Of_Life\main.cpp(27,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Conway's_Game_Of_Life.vcxproj -> C:\Users\tolis\source\repos\Conway's_Game_Of_Life\x64\Debug\Conway's_Game_Of_Life.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

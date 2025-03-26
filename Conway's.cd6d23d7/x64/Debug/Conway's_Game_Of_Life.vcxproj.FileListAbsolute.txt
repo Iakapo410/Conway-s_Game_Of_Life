@@ -1,0 +1,3 @@
+C:\Users\tolis\source\repos\Conway's_Game_Of_Life\x64\Debug\raylib.dll
+C:\Users\tolis\source\repos\Conway's_Game_Of_Life\x64\Debug\glfw3.dll
+C:\Users\tolis\source\repos\Conway's_Game_Of_Life\Conway's.cd6d23d7\x64\Debug\Conway's.32EF98EF.Up2Date

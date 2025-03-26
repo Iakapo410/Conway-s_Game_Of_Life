@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6D23D7-B644-4703-863C-E0A04D57CC1E}|Conway\u0027s_Game_Of_Life.vcxproj|C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD6D23D7-B644-4703-863C-E0A04D57CC1E}|Conway\u0027s_Game_Of_Life.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6D23D7-B644-4703-863C-E0A04D57CC1E}|Conway\u0027s_Game_Of_Life.vcxproj|C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\Grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD6D23D7-B644-4703-863C-E0A04D57CC1E}|Conway\u0027s_Game_Of_Life.vcxproj|solutionrelative:Grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6D23D7-B644-4703-863C-E0A04D57CC1E}|Conway\u0027s_Game_Of_Life.vcxproj|C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD6D23D7-B644-4703-863C-E0A04D57CC1E}|Conway\u0027s_Game_Of_Life.vcxproj|solutionrelative:Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6D23D7-B644-4703-863C-E0A04D57CC1E}|Conway\u0027s_Game_Of_Life.vcxproj|C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\LifeSimulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD6D23D7-B644-4703-863C-E0A04D57CC1E}|Conway\u0027s_Game_Of_Life.vcxproj|solutionrelative:LifeSimulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6D23D7-B644-4703-863C-E0A04D57CC1E}|Conway\u0027s_Game_Of_Life.vcxproj|C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\LifeSimulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD6D23D7-B644-4703-863C-E0A04D57CC1E}|Conway\u0027s_Game_Of_Life.vcxproj|solutionrelative:LifeSimulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LifeSimulation.cpp",
+              "DocumentMoniker": "C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\LifeSimulation.cpp",
+              "RelativeDocumentMoniker": "LifeSimulation.cpp",
+              "ToolTip": "C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\LifeSimulation.cpp",
+              "RelativeToolTip": "LifeSimulation.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:57:53.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LifeSimulation.hpp",
+              "DocumentMoniker": "C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\LifeSimulation.hpp",
+              "RelativeDocumentMoniker": "LifeSimulation.hpp",
+              "ToolTip": "C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\LifeSimulation.hpp",
+              "RelativeToolTip": "LifeSimulation.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T10:52:40.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grid.cpp",
+              "DocumentMoniker": "C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\Grid.cpp",
+              "RelativeDocumentMoniker": "Grid.cpp",
+              "ToolTip": "C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\Grid.cpp",
+              "RelativeToolTip": "Grid.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:34:06.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grid.hpp",
+              "DocumentMoniker": "C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\Grid.hpp",
+              "RelativeDocumentMoniker": "Grid.hpp",
+              "ToolTip": "C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\Grid.hpp",
+              "RelativeToolTip": "Grid.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T10:22:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\tolis\\source\\repos\\Conway\u0027s_Game_Of_Life\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:08:35.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
